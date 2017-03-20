@@ -5,5 +5,3 @@ __pycache__
 android/.server/
 android/.client/
 codeBlocks
-waflib
-
